@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="855" height="262" viewBox="0 0 855 262">
+  <defs>
+    <clipPath id="clip-box-basic">
+      <rect width="855" height="262"/>
+    </clipPath>
+  </defs>
+  <g id="box-basic" clip-path="url(#clip-box-basic)">
+    <rect width="855" height="262" fill="#fff"/>
+    <g id="Group_170" data-name="Group 170" transform="translate(-91 -185)">
+      <g id="Group_167" data-name="Group 167" transform="translate(157 305)">
+        <g id="Rectangle_1485" data-name="Rectangle 1485" fill="none" stroke="rgba(50,115,220,0.6)" stroke-width="1">
+          <rect width="380" height="140" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="379" height="139" rx="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_1486" data-name="Rectangle 1486" fill="none" stroke="rgba(130,233,245,0.6)" stroke-width="20">
+          <rect width="380" height="140" rx="8" stroke="none"/>
+          <rect x="10" y="10" width="360" height="120" rx="2" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_150" data-name="Group 150" transform="translate(177 325)">
+        <text id="Awesome_Title" data-name="Awesome Title" transform="translate(1 19)" fill="#333" font-size="19" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Awesome Title</tspan></text>
+        <g id="Rectangle_1480" data-name="Rectangle 1480" fill="none" stroke="#70c2cd" stroke-width="1">
+          <rect width="340" height="24" stroke="none"/>
+          <rect x="0.5" y="0.5" width="339" height="23" fill="none"/>
+        </g>
+      </g>
+      <g id="Element_-_Margin-Top" data-name="Element - Margin-Top" transform="translate(177 349)">
+        <text id="Bacon_ipsum_dolor_amet_chuck_picanha_buffalo_fatback_leberkas_brisket_porchetta_pig_corned_beef_jerky_turkey_frankfurter_ribeye._" data-name="Bacon ipsum dolor amet chuck picanha buffalo fatback, leberkas brisket porchetta pig corned beef jerky turkey frankfurter ribeye. " transform="translate(1 19)" fill="#333" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Bacon ipsum dolor amet chuck picanha buffalo </tspan><tspan x="0" y="34">fatback, leberkas brisket porchetta pig corned </tspan><tspan x="0" y="53">beef jerky turkey frankfurter ribeye. </tspan></text>
+        <g id="Rectangle_1482" data-name="Rectangle 1482" transform="translate(0 19)" fill="none" stroke="#a189b6" stroke-width="1">
+          <rect width="340" height="58" stroke="none"/>
+          <rect x="0.5" y="0.5" width="339" height="57" fill="none"/>
+        </g>
+        <rect id="Rectangle_1483" data-name="Rectangle 1483" width="340" height="20" fill="#a189b6"/>
+      </g>
+    </g>
+    <g id="Group_168" data-name="Group 168" transform="translate(-90 -518)">
+      <g id="Group_152" data-name="Group 152" transform="translate(177 540)">
+        <text id="Bacon_ipsum_dolor_amet_chuck_picanha_buffalo_fatback_leberkas_brisket_porchetta_corned_beef_jerky_turkey_frankfurter_ribeye_meatball_pizza." data-name="Bacon ipsum dolor amet chuck picanha buffalo fatback, leberkas brisket porchetta corned beef jerky turkey frankfurter ribeye meatball pizza." transform="translate(1)" fill="#333" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Bacon ipsum dolor amet chuck picanha buffalo </tspan><tspan x="0" y="34">fatback, leberkas brisket porchetta corned beef </tspan><tspan x="0" y="53">jerky turkey frankfurter ribeye meatball pizza.</tspan></text>
+        <g id="Rectangle_1480-2" data-name="Rectangle 1480" fill="none" stroke="#92e4ef" stroke-width="1">
+          <rect width="340" height="58" stroke="none"/>
+          <rect x="0.5" y="0.5" width="339" height="57" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_167-2" data-name="Group 167" transform="translate(157 520)">
+        <g id="Rectangle_1485-2" data-name="Rectangle 1485" fill="none" stroke="rgba(50,115,220,0.6)" stroke-width="1">
+          <rect width="380" height="98" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="379" height="97" rx="7.5" fill="none"/>
+        </g>
+        <g id="Rectangle_1486-2" data-name="Rectangle 1486" fill="none" stroke="rgba(130,233,245,0.6)" stroke-width="20">
+          <rect width="380" height="98" rx="8" stroke="none"/>
+          <rect x="10" y="10" width="360" height="78" rx="2" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_120" data-name="Group 120" transform="translate(-59 -284)">
+      <line id="Line_3" data-name="Line 3" y1="69.5" transform="translate(131 335.5) rotate(90)" fill="none" stroke="#222" stroke-width="2"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(61 311)">
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="24" cy="24" r="24" fill="#222"/>
+        <text id="_1" data-name="1" transform="translate(24 34)" fill="#fffefe" font-size="28" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-7.786" y="0">1</tspan></text>
+      </g>
+    </g>
+    <g id="Group_171" data-name="Group 171" transform="translate(-91 -148)">
+      <text id="Bacon_ipsum_dolor_amet_chuck_picanha_buffalo_fatback_leberkas_brisket_porchetta_corned_beef_jerky_turkey_frankfurter_ribeye_meatball_pizza._" data-name="Bacon ipsum dolor amet chuck picanha buffalo fatback, leberkas brisket porchetta corned beef jerky turkey frankfurter ribeye meatball pizza. " transform="translate(584 170)" fill="#333" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Bacon ipsum dolor amet chuck picanha buffalo </tspan><tspan x="0" y="34">fatback, leberkas brisket porchetta corned beef </tspan><tspan x="0" y="53">jerky turkey frankfurter ribeye meatball pizza. </tspan></text>
+      <g id="Rectangle_1485-3" data-name="Rectangle 1485" transform="translate(563 150)" fill="none" stroke="rgba(50,115,220,0.6)" stroke-width="1">
+        <rect width="380" height="98" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="379" height="97" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_121" data-name="Group 121" transform="translate(-58 -248)">
+      <line id="Line_1" data-name="Line 1" y2="82.5" transform="translate(144 398.5) rotate(90)" fill="none" stroke="#222" stroke-width="2"/>
+      <g id="Group_1-2" data-name="Group 1" transform="translate(61 374)">
+        <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="24" cy="24" r="24" fill="#222"/>
+        <text id="_2" data-name="2" transform="translate(24 34)" fill="#fffefe" font-size="28" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-7.786" y="0">2</tspan></text>
+      </g>
+    </g>
+    <g id="Group_169" data-name="Group 169" transform="translate(-168 -185)">
+      <g id="Rectangle_1485-4" data-name="Rectangle 1485" transform="translate(640 305)" fill="none" stroke="rgba(50,115,220,0.6)" stroke-width="1">
+        <rect width="380" height="140" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="379" height="139" rx="7.5" fill="none"/>
+      </g>
+      <text id="Awesome_Title-2" data-name="Awesome Title" transform="translate(661 344)" fill="#333" font-size="19" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Awesome Title</tspan></text>
+      <text id="Bacon_ipsum_dolor_amet_chuck_picanha_buffalo_fatback_leberkas_brisket_porchetta_pig_corned_beef_jerky_turkey_frankfurter_ribeye._2" data-name="Bacon ipsum dolor amet chuck picanha buffalo fatback, leberkas brisket porchetta pig corned beef jerky turkey frankfurter ribeye. " transform="translate(661 368)" fill="#333" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Bacon ipsum dolor amet chuck picanha buffalo </tspan><tspan x="0" y="34">fatback, leberkas brisket porchetta pig corned </tspan><tspan x="0" y="53">beef jerky turkey frankfurter ribeye. </tspan></text>
+    </g>
+  </g>
+</svg>
